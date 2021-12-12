@@ -1,0 +1,29 @@
+Oncelik ID | Ucak ID | Talep edilen inis saati | inis saati | gecikme suresi | kalkis saati
+1	       1		   14.00		14.00	     0 saat		15.00
+2	       2		   13.00		13.00	     0 saat		14.00
+2	       3		   11.00		11.00	     0 saat		12.00
+3	       4		   10.00		12.00	     2 saat		13.00
+4	       5		   16.00		19.00	     3 saat		20.00
+2	       6		   10.00		10.00	     0 saat		11.00
+3	       7		   2.00		5.00	     3 saat		6.00
+3	       8		   14.00		15.00	     1 saat		16.00
+4	       9		   17.00		20.00	     3 saat		21.00
+4	       10		   13.00		16.00	     3 saat		17.00
+1	       11		   1.00		1.00	     0 saat		2.00
+1	       12		   1.00		2.00	     1 saat		3.00
+2	       13		   9.00		9.00	     0 saat		10.00
+3	       14		   16.00		18.00	     2 saat		19.00
+3	       15		   13.00		izin yok	     izin yok	izin yok
+2	       16		   20.00		21.00	     1 saat		22.00
+3	       17		   1.00		4.00	     3 saat		5.00
+3	       18		   24.00		izin yok	     izin yok	izin yok
+1	       19		   23.00		izin yok	     izin yok	izin yok
+4	       20		   21.00		0.00	     3 saat		1.00
+3	       21		   19.00		22.00	     3 saat		23.00
+4	       22		   1.00		izin yok	     izin yok	izin yok
+2	       23		   2.00		3.00	     1 saat		4.00
+3	       24		   8.00		8.00	     0 saat		9.00
+1	       25		   16.00		17.00	     1 saat		18.00
+4	       26		   20.00		23.00	     3 saat		0.00
+2	       27		   2.00		izin yok	     izin yok	izin yok
+4	       28		   3.00		6.00	     3 saat		7.00
